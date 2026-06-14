@@ -13,7 +13,6 @@
     "IDF_PATH": "/home/esp32/esp/esp-idf/",
     "IDF_TOOLS_PATH": "/home/esp32/.espressif",
     "IDF_PYTHON_ENV_PATH": "/home/esp32/.espressif/python_env/idf6.0_py3.13_env"
-    "IDF_CCACHE_ENABLE": "1"
   },
   "runArgs": [
     "--name=esp-idf-v6_0_1-devcontainer",
