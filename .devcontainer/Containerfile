@@ -55,4 +55,3 @@ RUN python3 tools/idf_tools.py install qemu-xtensa qemu-riscv32
 
 RUN echo ". /home/${USERNAME}/esp/esp-idf/export.sh" >> /home/${USERNAME}/.profile
 
-WORKDIR /home/${USERNAME}/workspace
