@@ -34,6 +34,7 @@
         "idf.pythonInstallPath": "/usr/bin/python3",
         "idf.gitPath": "/usr/bin/git",
         "idf.enableCCache": true,
+        "idf.extensionActivationMode": "always",
         "cmake.generator": "Ninja",
         "cmake.configureOnOpen": false,
         "cmake.configureOnEdit": false,
