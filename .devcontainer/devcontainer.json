@@ -13,9 +13,7 @@
     "IDF_PYTHON_ENV_PATH": "/home/esp32/.espressif/python_env/idf6.0_py3.13_env"
   },
   "runArgs": [
-    "--name=esp-idf-v6_0_1-devcontainer",
     "--userns=keep-id",
-    "--hostname=esp-idf-v6_0_1-devcontainer",
     "--device=/dev/ttyACM0",
     "--volume=/dev/bus/usb:/dev/bus/usb:rw",
     "--annotation=run.oci.keep_original_groups=1"
